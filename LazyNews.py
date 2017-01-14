@@ -13,8 +13,8 @@ from email.mime.text import MIMEText
 myApiKey = "your_api_key"
 mySearchID = "your_search_Id"
 
-myEmail = "your_email"
-host = "your_host_email"
+myEmail = "your_email"  #Destination address
+host = "your_host_email" #Emails are sent from this address
 hostPassword = 'your_host_email_password'
 
 # This functions returns the results of a search based on a news feed
