@@ -11,4 +11,6 @@ use the Google custom search API are here
 
 https://developers.google.com/custom-search/docs/overview
 
-Feel free to fork and use.
+Feel free to fork and use. I run the script in the background of my Raspberry Pi using the command
+
+    $ nohup python3 /path/to/LazyNews.py &
